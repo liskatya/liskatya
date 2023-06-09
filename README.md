@@ -1,5 +1,5 @@
 <div id="header" align="center">
-<h1> Hello there! </h1>
+<h1> Hi there! :smiley_cat: </h1>
 </div>
 <a href="https://t.me/katlis">
     <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram" alt="Telegram">
