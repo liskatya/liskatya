@@ -1,6 +1,5 @@
 <div id="header" align="center">
 <h1> Hi there! :smiley_cat: </h1>
-</div>
 <div align="center">
     <h3>Languages and tools</h3>
     <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java" width="50" height="50">
