@@ -2,13 +2,11 @@
 <h1> Hi there! :smiley_cat: </h1>
 <div align="center">
     <h3>Languages and tools</h3>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java" width="50" height="50">
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" width="50" height="50">
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git" width="50" height="50">
     <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="VSCode" width="50" height="50">
     <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="Docker" width="50" height="50">
     <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" alt="Gitlab" width="50" height="50">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="50" height="50">
 </div>
 
 [![](https://raw.githubusercontent.com/liskatya/liskatya/master/profile-summary-card-output/transparent/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
